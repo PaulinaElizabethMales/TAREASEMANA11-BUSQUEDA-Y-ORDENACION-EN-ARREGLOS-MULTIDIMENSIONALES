@@ -1,0 +1,1 @@
+print("✅ ¡Hola mundo! El programa se ejecutó correctamente.")
